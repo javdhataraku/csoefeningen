@@ -1,6 +1,9 @@
-﻿namespace CsharpOefeningen
+﻿using CsharpOefeningen.Classes;
+using System;
+
+namespace CsharpOefeningen
 {
-    internal class Classes
+    internal class ClassesPractice
     {
         public void RunOefeningen()
         {

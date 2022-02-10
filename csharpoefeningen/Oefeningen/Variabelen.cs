@@ -1,6 +1,7 @@
-﻿namespace CsharpOefeningen
-{
+﻿using System;
 
+namespace CsharpOefeningen
+{
     internal class Variabelen
     {
         public void Oefening0()

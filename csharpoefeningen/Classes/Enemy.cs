@@ -1,4 +1,4 @@
-﻿namespace CsharpOefeningen
+﻿namespace CsharpOefeningen.Classes
 {
     internal class Enemy
     {
