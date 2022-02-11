@@ -4,6 +4,10 @@
     {
         private int salaris;
 
+        public MaWerknemer(string name, int age) : base(name, age)//wat gebeurt hier? we roepen de constructor van MaPersoon
+        {
+        }
+
         //maak hier voor Oefening1 een function die als AGE > 65 
 
 

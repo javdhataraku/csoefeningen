@@ -1,4 +1,6 @@
-﻿namespace CsharpOefeningen
+﻿using System;
+
+namespace CsharpOefeningen
 {
     class Program
     {
@@ -16,9 +18,6 @@
             //variabelen.Oefening2();
 
 
-
-            //Classes classes = new Classes();
-            //classes.RunOefeningen();
 
 
             Console.ReadLine();//laat het programma niet beeindigen zodat je het kan zien
